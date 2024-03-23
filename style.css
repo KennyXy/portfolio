@@ -350,7 +350,4 @@ main {
     .software {
         gap: 30px;
     }
-    .software img {
-        height: 50px;
-    }
 }
